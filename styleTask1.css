@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin: 50px;
+}
+.para{
+    background-color: aqua;
+    border: 5px solid lime;
+    box-shadow: 10px 10px  10px yellowgreen;
+    margin : 35px 15px 0px 15px;
+}
+
